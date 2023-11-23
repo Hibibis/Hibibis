@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hibibis
+- 👋 Hi, I’m @Hibis
 - 👀 I’m interested in weebies activities 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me : Discord => Hibi 🌺#6370
+- 📫 How to reach me : Discord => Hibi.
 
 <!---
 Hibibis/Hibibis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
